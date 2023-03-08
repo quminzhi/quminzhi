@@ -7,7 +7,7 @@
 - 💞️ How to reach me **matt.0xcc@gmail.com** 🙄
 
 <picture>
-  <source media="(prefers-color-scheme: night)" srcset="[github-snake.svg](https://github.com/quminzhi/quminzhi/blob/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/quminzhi/quminzhi/blob/output/github-contribution-grid-snake.svg)">
   <img alt="github-snake" src="https://github.com/quminzhi/quminzhi/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
