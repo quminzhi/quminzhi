@@ -4,7 +4,7 @@
 
 - 👀 I’m currently working on develop a baby operating system QueOS <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30"/> </a>
 - 🌱 I’m currently learning **knowledges related to OS development** 😇, and really into cloud computing.  
-- 💞️ How to reach me **matt.0xcc@gmail.com** 🙄
+- 💞️ How to reach me **quminzhi@gmail.com** 🙄
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/quminzhi/quminzhi/blob/output/github-snake.svg)">
